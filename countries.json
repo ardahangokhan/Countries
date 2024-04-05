@@ -4,7 +4,7 @@
         "capital": "Nicosia",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/cy.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cy.png",
         "language": "Greek,Turkish"
     },
     {
@@ -12,7 +12,7 @@
         "capital": "Asmara",
         "region": "Africa",
         "currency": "ERN",
-        "flag": "https://flagcdn.com/w320/er.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/er.png",
         "language": "Tigrinya, Arabic, English"
     },
     {
@@ -20,7 +20,7 @@
         "capital": "Monrovia",
         "region": "Africa",
         "currency": "LRD",
-        "flag": "https://flagcdn.com/w320/lr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lr.png",
         "language": "English"
     },
     {
@@ -28,7 +28,7 @@
         "capital": "Hamilton",
         "region": "Americas",
         "currency": "BMD",
-        "flag": "https://flagcdn.com/w320/bm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bm.png",
         "language": "English"
     },
     {
@@ -36,7 +36,7 @@
         "capital": "Vatican City",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/va.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/va.png",
         "language": "Latin, Italian"
     },
     {
@@ -44,7 +44,7 @@
         "capital": "Avarua",
         "region": "Oceania",
         "currency": "NZD",
-        "flag": "https://flagcdn.com/w320/ck.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ck.png",
         "language": "English, Cook Islands Māori"
     },
     {
@@ -52,7 +52,7 @@
         "capital": "Mogadishu",
         "region": "Africa",
         "currency": "SOS",
-        "flag": "https://flagcdn.com/w320/so.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/so.png",
         "language": "Somali, Arabic"
     },
     {
@@ -60,7 +60,7 @@
         "capital": "Lusaka",
         "region": "Africa",
         "currency": "ZMW",
-        "flag": "https://flagcdn.com/w320/zm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/zm.png",
         "language": "English"
     },
     {
@@ -68,7 +68,7 @@
         "capital": "Caracas",
         "region": "Americas",
         "currency": "VES",
-        "flag": "https://flagcdn.com/w320/ve.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ve.png",
         "language": "Spanish"
     },
     {
@@ -76,7 +76,7 @@
         "capital": "Ashgabat",
         "region": "Asia",
         "currency": "TMT",
-        "flag": "https://flagcdn.com/w320/tm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tm.png",
         "language": "Turkmen"
     },
     {
@@ -84,7 +84,7 @@
         "capital": "Tirana",
         "region": "Europe",
         "currency": "ALL",
-        "flag": "https://flagcdn.com/w320/al.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/al.png",
         "language": "Albanian"
     },
     {
@@ -92,7 +92,7 @@
         "capital": "Zagreb",
         "region": "Europe",
         "currency": "HRK",
-        "flag": "https://flagcdn.com/w320/hr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/hr.png",
         "language": "Croatian"
     },
     {
@@ -100,7 +100,7 @@
         "capital": "London",
         "region": "Europe",
         "currency": "GBP",
-        "flag": "https://flagcdn.com/w320/gb.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gb.png",
         "language": "English"
     },
     {
@@ -108,7 +108,7 @@
         "capital": "Khartoum",
         "region": "Africa",
         "currency": "SDG",
-        "flag": "https://flagcdn.com/w320/sd.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sd.png",
         "language": "Arabic, English"
     },
     {
@@ -116,7 +116,7 @@
         "capital": "Dili",
         "region": "Asia",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/tl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tl.png",
         "language": "Tetum, Portuguese"
     },
     {
@@ -124,7 +124,7 @@
         "capital": "Brazzaville",
         "region": "Africa",
         "currency": "XAF",
-        "flag": "https://flagcdn.com/w320/cg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cg.png",
         "language": "French"
     },
     {
@@ -132,7 +132,7 @@
         "capital": "Baku",
         "region": "Asia",
         "currency": "AZN",
-        "flag": "https://flagcdn.com/w320/az.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/az.png",
         "language": "Azerbaijani"
     },
     {
@@ -140,7 +140,7 @@
         "capital": "Nairobi",
         "region": "Africa",
         "currency": "KES",
-        "flag": "https://flagcdn.com/w320/ke.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ke.png",
         "language": "Swahili, English"
     },
     {
@@ -148,7 +148,7 @@
         "capital": "Pago Pago",
         "region": "Oceania",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/as.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/as.png",
         "language": "English, Samoan"
     },
     {
@@ -156,7 +156,7 @@
         "capital": "Yamoussoukro",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/ci.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ci.png",
         "language": "French"
     },
     {
@@ -164,7 +164,7 @@
         "capital": "Dakar",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/sn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sn.png",
         "language": "French"
     },
     {
@@ -172,7 +172,7 @@
         "capital": "Hanoi",
         "region": "Asia",
         "currency": "VND",
-        "flag": "https://flagcdn.com/w320/vn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/vn.png",
         "language": "Vietnamese"
     },
     {
@@ -180,7 +180,7 @@
         "capital": "San Salvador",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/sv.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sv.png",
         "language": "Spanish"
     },
     {
@@ -196,7 +196,7 @@
         "capital": "Marigot",
         "region": "Americas",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/mf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mf.png",
         "language": "French, Dutch"
     },
     {
@@ -204,7 +204,7 @@
         "capital": "Riga",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/lv.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lv.png",
         "language": "Latvian"
     },
     {
@@ -212,7 +212,7 @@
         "capital": "Guatemala City",
         "region": "Americas",
         "currency": "GTQ",
-        "flag": "https://flagcdn.com/w320/gt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gt.png",
         "language": "Spanish"
     },
     {
@@ -220,7 +220,7 @@
         "capital": "Kuwait City",
         "region": "Asia",
         "currency": "KWD",
-        "flag": "https://flagcdn.com/w320/kw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kw.png",
         "language": "Arabic"
     },
     {
@@ -228,7 +228,7 @@
         "capital": "São Tomé",
         "region": "Africa",
         "currency": "STD",
-        "flag": "https://flagcdn.com/w320/st.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/st.png",
         "language": "Portuguese"
     },
     {
@@ -236,7 +236,7 @@
         "capital": "Bishkek",
         "region": "Asia",
         "currency": "KGS",
-        "flag": "https://flagcdn.com/w320/kg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kg.png",
         "language": "Kyrgyz, Russian"
     },
     {
@@ -244,7 +244,7 @@
         "capital": "Warsaw",
         "region": "Europe",
         "currency": "PLN",
-        "flag": "https://flagcdn.com/w320/pl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pl.png",
         "language": "Polish"
     },
     {
@@ -252,7 +252,7 @@
         "capital": "Hagåtña",
         "region": "Oceania",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/gu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gu.png",
         "language": "Chamorro"
     },
     {
@@ -260,7 +260,7 @@
         "capital": "Accra",
         "region": "Africa",
         "currency": "GHS",
-        "flag": "https://flagcdn.com/w320/gh.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gh.png",
         "language": "English"
     },
     {
@@ -268,7 +268,7 @@
         "capital": "Vilnius",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/lt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lt.png",
         "language": "Lithuanian"
     },
     {
@@ -276,7 +276,7 @@
         "capital": "Yerevan",
         "region": "Asia",
         "currency": "AMD",
-        "flag": "https://flagcdn.com/w320/am.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/am.png",
         "language": "Armenian"
     },
     {
@@ -284,7 +284,7 @@
         "capital": "Saint Helier",
         "region": "Europe",
         "currency": "GBP",
-        "flag": "https://flagcdn.com/w320/je.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/je.png",
         "language": "English, French, Jèrriais"
     },
     {
@@ -292,7 +292,7 @@
         "capital": "St. George's",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/gd.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gd.png",
         "language": "English"
     },
     {
@@ -300,7 +300,7 @@
         "capital": "Dushanbe",
         "region": "Asia",
         "currency": "TJS",
-        "flag": "https://flagcdn.com/w320/tj.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tj.png",
         "language": "Tajik"
     },
     {
@@ -308,7 +308,7 @@
         "capital": "Addis Ababa",
         "region": "Africa",
         "currency": "ETB",
-        "flag": "https://flagcdn.com/w320/et.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/et.png",
         "language": "Amharic"
     },
     {
@@ -316,7 +316,7 @@
         "capital": "El Aaiún",
         "region": "Africa",
         "currency": "DZD",
-        "flag": "https://flagcdn.com/w320/eh.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/eh.png",
         "language": "Arabic"
     },
     {
@@ -324,7 +324,7 @@
         "capital": "Rabat",
         "region": "Africa",
         "currency": "MAD",
-        "flag": "https://flagcdn.com/w320/ma.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ma.png",
         "language": "Arabic, Berber"
     },
     {
@@ -332,7 +332,7 @@
         "capital": "San Juan",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/pr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pr.png",
         "language": "Spanish, English"
     },
     {
@@ -340,7 +340,7 @@
         "capital": "Flying Fish Cove",
         "region": "Oceania",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/cx.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cx.png",
         "language": "English"
     },
     {
@@ -348,7 +348,7 @@
         "capital": "Wellington",
         "region": "Oceania",
         "currency": "NZD",
-        "flag": "https://flagcdn.com/w320/nz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/nz.png",
         "language": "English, Māori"
     },
     {
@@ -356,7 +356,7 @@
         "capital": "Bandar Seri Begawan",
         "region": "Asia",
         "currency": "BND",
-        "flag": "https://flagcdn.com/w320/bn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bn.png",
         "language": "Malay"
     },
     {
@@ -364,7 +364,7 @@
         "capital": "Cayenne",
         "region": "Americas",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/gf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gf.png",
         "language": "French"
     },
     {
@@ -372,7 +372,7 @@
         "capital": "Alofi",
         "region": "Oceania",
         "currency": "NZD",
-        "flag": "https://flagcdn.com/w320/nu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/nu.png",
         "language": "English, Niuean"
     },
     {
@@ -380,7 +380,7 @@
         "capital": "Bucharest",
         "region": "Europe",
         "currency": "RON",
-        "flag": "https://flagcdn.com/w320/ro.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ro.png",
         "language": "Romanian"
     },
     {
@@ -388,7 +388,7 @@
         "capital": "Longyearbyen",
         "region": "Europe",
         "currency": "NOK",
-        "flag": "https://flagcdn.com/w320/sj.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sj.png",
         "language": "Norwegian"
     },
     {
@@ -396,7 +396,7 @@
         "capital": "Minsk",
         "region": "Europe",
         "currency": "BYN",
-        "flag": "https://flagcdn.com/w320/by.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/by.png",
         "language": "Belarusian"
     },
     {
@@ -404,7 +404,7 @@
         "capital": "Panama City",
         "region": "Americas",
         "currency": "PAB",
-        "flag": "https://flagcdn.com/w320/pa.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pa.png",
         "language": "Spanish"
     },
     {
@@ -412,7 +412,7 @@
         "capital": "Yaoundé",
         "region": "Africa",
         "currency": "XAF",
-        "flag": "https://flagcdn.com/w320/cm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cm.png",
         "language": "French, English"
     },
     {
@@ -420,7 +420,7 @@
         "capital": "Prague",
         "region": "Europe",
         "currency": "CZK",
-        "flag": "https://flagcdn.com/w320/cz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cz.png",
         "language": "Czech"
     },
     {
@@ -428,7 +428,7 @@
         "capital": "Gustavia",
         "region": "Americas",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/bl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bl.png",
         "language": "French"
     },
     {
@@ -436,7 +436,7 @@
         "capital": "Athens",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/gr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gr.png",
         "language": "Greek"
     },
     {
@@ -444,7 +444,7 @@
         "capital": "Bamako",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/ml.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ml.png",
         "language": "French"
     },
     {
@@ -452,7 +452,7 @@
         "capital": "Fort-de-France",
         "region": "Americas",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/mq.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mq.png",
         "language": "French"
     },
     {
@@ -460,7 +460,7 @@
         "capital": "Paris",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/fr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/fr.png",
         "language": "French"
     },
     {
@@ -468,7 +468,7 @@
         "capital": "Islamabad",
         "region": "Asia",
         "currency": "PKR",
-        "flag": "https://flagcdn.com/w320/pk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pk.png",
         "language": "Urdu"
     },
     {
@@ -476,7 +476,7 @@
         "capital": "Lima",
         "region": "Americas",
         "currency": "PEN",
-        "flag": "https://flagcdn.com/w320/pe.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pe.png",
         "language": "Spanish"
     },
     {
@@ -484,7 +484,7 @@
         "capital": "Bridgetown",
         "region": "Americas",
         "currency": "BBD",
-        "flag": "https://flagcdn.com/w320/bb.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bb.png",
         "language": "English"
     },
     {
@@ -492,7 +492,7 @@
         "capital": "Nuuk",
         "region": "Americas",
         "currency": "DKK",
-        "flag": "https://flagcdn.com/w320/gl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gl.png",
         "language": "Greenlandic, Danish"
     },
     {
@@ -500,7 +500,7 @@
         "capital": "Saint-Pierre",
         "region": "Americas",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/pm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pm.png",
         "language": "French"
     },
     {
@@ -508,7 +508,7 @@
         "capital": "N'Djamena",
         "region": "Africa",
         "currency": "XAF",
-        "flag": "https://flagcdn.com/w320/td.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/td.png",
         "language": "French, Arabic"
     },
     {
@@ -516,7 +516,7 @@
         "capital": "Budapest",
         "region": "Europe",
         "currency": "HUF",
-        "flag": "https://flagcdn.com/w320/hu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/hu.png",
         "language": "Hungarian"
     },
     {
@@ -524,7 +524,7 @@
         "capital": "Moroni",
         "region": "Africa",
         "currency": "KMF",
-        "flag": "https://flagcdn.com/w320/km.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/km.png",
         "language": "Arabic, French, Comorian"
     },
     {
@@ -532,7 +532,7 @@
         "capital": "Dhaka",
         "region": "Asia",
         "currency": "BDT",
-        "flag": "https://flagcdn.com/w320/bd.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bd.png",
         "language": "Bengali"
     },
     {
@@ -540,7 +540,7 @@
         "capital": "Fakaofo",
         "region": "Oceania",
         "currency": "NZD",
-        "flag": "https://flagcdn.com/w320/tk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tk.png",
         "language": "Tokelauan, English"
     },
     {
@@ -548,7 +548,7 @@
         "capital": "Suva",
         "region": "Oceania",
         "currency": "FJD",
-        "flag": "https://flagcdn.com/w320/fj.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/fj.png",
         "language": "English, Fijian, Hindi"
     },
     {
@@ -556,7 +556,7 @@
         "capital": "Beijing",
         "region": "Asia",
         "currency": "CNY",
-        "flag": "https://flagcdn.com/w320/cn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cn.png",
         "language": "Standard Chinese (Mandarin)"
     },
     {
@@ -564,7 +564,7 @@
         "capital": "Bogotá",
         "region": "Americas",
         "currency": "COP",
-        "flag": "https://flagcdn.com/w320/co.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/co.png",
         "language": "Spanish"
     },
     {
@@ -572,7 +572,7 @@
         "capital": "Road Town",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/vg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/vg.png",
         "language": "English"
     },
     {
@@ -580,7 +580,7 @@
         "capital": "Algiers",
         "region": "Africa",
         "currency": "DZD",
-        "flag": "https://flagcdn.com/w320/dz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/dz.png",
         "language": "Arabic, Berber"
     },
     {
@@ -588,7 +588,7 @@
         "capital": "Malé",
         "region": "Asia",
         "currency": "MVR",
-        "flag": "https://flagcdn.com/w320/mv.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mv.png",
         "language": "Dhivehi"
     },
     {
@@ -596,7 +596,7 @@
         "capital": "Kuala Lumpur",
         "region": "Asia",
         "currency": "MYR",
-        "flag": "https://flagcdn.com/w320/my.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/my.png",
         "language": "Malay"
     },
     {
@@ -604,7 +604,7 @@
         "capital": "George Town",
         "region": "Americas",
         "currency": "KYD",
-        "flag": "https://flagcdn.com/w320/ky.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ky.png",
         "language": "English"
     },
     {
@@ -612,7 +612,7 @@
         "capital": "Madrid",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/es.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/es.png",
         "language": "Spanish"
     },
     {
@@ -620,7 +620,7 @@
         "capital": "Dublin",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/ie.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ie.png",
         "language": "Irish, English"
     },
     {
@@ -628,7 +628,7 @@
         "capital": "Tallinn",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/ee.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ee.png",
         "language": "Estonian"
     },
     {
@@ -636,7 +636,7 @@
         "capital": "Asunción",
         "region": "Americas",
         "currency": "PYG",
-        "flag": "https://flagcdn.com/w320/py.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/py.png",
         "language": "Spanish, Guarani"
     },
     {
@@ -644,7 +644,7 @@
         "capital": "Montevideo",
         "region": "Americas",
         "currency": "UYU",
-        "flag": "https://flagcdn.com/w320/uy.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/uy.png",
         "language": "Spanish"
     },
     {
@@ -652,7 +652,7 @@
         "capital": "Pretoria,Bloemfontein,Cape Town",
         "region": "Africa",
         "currency": "ZAR",
-        "flag": "https://flagcdn.com/w320/za.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/za.png",
         "language": "Afrikaans, English, Zulu, Xhosa, others"
     },
     {
@@ -660,7 +660,7 @@
         "capital": "Castries",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/lc.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lc.png",
         "language": "English"
     },
     {
@@ -668,7 +668,7 @@
         "capital": "Port Vila",
         "region": "Oceania",
         "currency": "VUV",
-        "flag": "https://flagcdn.com/w320/vu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/vu.png",
         "language": "Bislama, English, French"
     },
     {
@@ -676,7 +676,7 @@
         "capital": "Helsinki",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/fi.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/fi.png",
         "language": "Finnish, Swedish"
     },
     {
@@ -684,7 +684,7 @@
         "capital": "Stockholm",
         "region": "Europe",
         "currency": "SEK",
-        "flag": "https://flagcdn.com/w320/se.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/se.png",
         "language": "Swedish"
     },
     {
@@ -692,7 +692,7 @@
         "capital": "Diego Garcia",
         "region": "Africa",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/io.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/io.png",
         "language": "English"
     },
     {
@@ -700,7 +700,7 @@
         "capital": "Beirut",
         "region": "Asia",
         "currency": "LBP",
-        "flag": "https://flagcdn.com/w320/lb.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lb.png",
         "language": "Arabic"
     },
     {
@@ -708,7 +708,7 @@
         "capital": "Washington, D.C.",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/us.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/us.png",
         "language": "English"
     },
     {
@@ -716,7 +716,7 @@
         "capital": "Santiago",
         "region": "Americas",
         "currency": "CLP",
-        "flag": "https://flagcdn.com/w320/cl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cl.png",
         "language": "Spanish"
     },
     {
@@ -724,7 +724,7 @@
         "capital": "Kingston",
         "region": "Oceania",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/nf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/nf.png",
         "language": "English"
     },
     {
@@ -732,7 +732,7 @@
         "capital": "Plymouth",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/ms.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ms.png",
         "language": "English"
     },
     {
@@ -740,7 +740,7 @@
         "capital": "Canberra",
         "region": "Oceania",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/au.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/au.png",
         "language": "English"
     },
     {
@@ -748,7 +748,7 @@
         "capital": "Belmopan",
         "region": "Americas",
         "currency": "BZD",
-        "flag": "https://flagcdn.com/w320/bz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bz.png",
         "language": "English"
     },
     {
@@ -756,7 +756,7 @@
         "capital": "Georgetown",
         "region": "Americas",
         "currency": "GYD",
-        "flag": "https://flagcdn.com/w320/gy.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gy.png",
         "language": "English"
     },
     {
@@ -764,7 +764,7 @@
         "capital": "Ulan Bator",
         "region": "Asia",
         "currency": "MNT",
-        "flag": "https://flagcdn.com/w320/mn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mn.png",
         "language": "Mongolian"
     },
     {
@@ -772,7 +772,7 @@
         "capital": "Funafuti",
         "region": "Oceania",
         "currency": "TVD",
-        "flag": "https://flagcdn.com/w320/tv.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tv.png",
         "language": "Tuvaluan, English"
     },
     {
@@ -780,7 +780,7 @@
         "capital": "Santo Domingo",
         "region": "Americas",
         "currency": "DOP",
-        "flag": "https://flagcdn.com/w320/do.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/do.png",
         "language": "Spanish"
     },
     {
@@ -788,7 +788,7 @@
         "capital": "Malabo",
         "region": "Africa",
         "currency": "XAF",
-        "flag": "https://flagcdn.com/w320/gq.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gq.png",
         "language": "Spanish, French, Portuguese"
     },
     {
@@ -796,7 +796,7 @@
         "capital": "Basseterre",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/kn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kn.png",
         "language": "English"
     },
     {
@@ -804,7 +804,7 @@
         "capital": "Sucre",
         "region": "Americas",
         "currency": "BOB",
-        "flag": "https://flagcdn.com/w320/bo.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bo.png",
         "language": "Spanish, Quechua, Aymara"
     },
     {
@@ -812,7 +812,7 @@
         "capital": "Kathmandu",
         "region": "Asia",
         "currency": "NPR",
-        "flag": "https://flagcdn.com/w320/np.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/np.png",
         "language": "Nepali"
     },
     {
@@ -820,7 +820,7 @@
         "capital": "Port-aux-Français",
         "region": "Antarctic",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/tf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tf.png",
         "language": "French"
     },
     {
@@ -828,7 +828,7 @@
         "capital": "Taipei",
         "region": "Asia",
         "currency": "TWD",
-        "flag": "https://flagcdn.com/w320/tw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tw.png",
         "language": "Mandarin"
     },
     {
@@ -836,7 +836,7 @@
         "capital": "Porto-Novo",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/bj.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bj.png",
         "language": "French"
     },
     {
@@ -844,7 +844,7 @@
         "capital": "Sofia",
         "region": "Europe",
         "currency": "BGN",
-        "flag": "https://flagcdn.com/w320/bg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bg.png",
         "language": "Bulgarian"
     },
     {
@@ -852,7 +852,7 @@
         "capital": "Chișinău",
         "region": "Europe",
         "currency": "MDL",
-        "flag": "https://flagcdn.com/w320/md.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/md.png",
         "language": "Moldovan (Romanian)"
     },
     {
@@ -860,7 +860,7 @@
         "capital": "Douglas",
         "region": "Europe",
         "currency": "IMP",
-        "flag": "https://flagcdn.com/w320/im.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/im.png",
         "language": "English, Manx"
     },
     {
@@ -868,7 +868,7 @@
         "capital": "Thimphu",
         "region": "Asia",
         "currency": "BTN",
-        "flag": "https://flagcdn.com/w320/bt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bt.png",
         "language": "Dzongkha"
     },
     {
@@ -876,7 +876,7 @@
         "capital": "Phnom Penh",
         "region": "Asia",
         "currency": "KHR",
-        "flag": "https://flagcdn.com/w320/kh.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kh.png",
         "language": "Khmer"
     },
     {
@@ -884,7 +884,7 @@
         "capital": "Saint John's",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/ag.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ag.png",
         "language": "English"
     },
     {
@@ -892,7 +892,7 @@
         "capital": "Port-au-Prince",
         "region": "Americas",
         "currency": "HTG",
-        "flag": "https://flagcdn.com/w320/ht.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ht.png",
         "language": "French, Haitian Creole"
     },
     {
@@ -900,7 +900,7 @@
         "capital": "Praia",
         "region": "Africa",
         "currency": "CVE",
-        "flag": "https://flagcdn.com/w320/cv.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cv.png",
         "language": "Portuguese"
     },
     {
@@ -908,7 +908,7 @@
         "capital": "Tbilisi",
         "region": "Asia",
         "currency": "GEL",
-        "flag": "https://flagcdn.com/w320/ge.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ge.png",
         "language": "Georgian"
     },
     {
@@ -916,7 +916,7 @@
         "capital": "Gitega",
         "region": "Africa",
         "currency": "BIF",
-        "flag": "https://flagcdn.com/w320/bi.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bi.png",
         "language": "Kirundi, French"
     },
     {
@@ -924,7 +924,7 @@
         "capital": "Nassau",
         "region": "Americas",
         "currency": "BSD",
-        "flag": "https://flagcdn.com/w320/bs.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bs.png",
         "language": "English"
     },
     {
@@ -932,7 +932,7 @@
         "capital": "Port Louis",
         "region": "Africa",
         "currency": "MUR",
-        "flag": "https://flagcdn.com/w320/mu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mu.png",
         "language": "English, French, Mauritian Creole"
     },
     {
@@ -940,7 +940,7 @@
         "capital": "Tripoli",
         "region": "Africa",
         "currency": "LYD",
-        "flag": "https://flagcdn.com/w320/ly.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ly.png",
         "language": "Arabic"
     },
     {
@@ -948,7 +948,7 @@
         "capital": "Lilongwe",
         "region": "Africa",
         "currency": "MWK",
-        "flag": "https://flagcdn.com/w320/mw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mw.png",
         "language": "English, Chewa"
     },
     {
@@ -956,7 +956,7 @@
         "capital": "Mexico City",
         "region": "Americas",
         "currency": "MXN",
-        "flag": "https://flagcdn.com/w320/mx.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mx.png",
         "language": "Spanish"
     },
     {
@@ -964,7 +964,7 @@
         "capital": "Mbabane",
         "region": "Africa",
         "currency": "SZL",
-        "flag": "https://flagcdn.com/w320/sz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sz.png",
         "language": "Swazi, English"
     },
     {
@@ -972,7 +972,7 @@
         "capital": "Port Moresby",
         "region": "Oceania",
         "currency": "PGK",
-        "flag": "https://flagcdn.com/w320/pg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pg.png",
         "language": "English, Hiri Motu, Tok Pisin"
     },
     {
@@ -980,7 +980,7 @@
         "capital": "Roseau",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/dm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/dm.png",
         "language": "English"
     },
     {
@@ -988,7 +988,7 @@
         "capital": "Vaduz",
         "region": "Europe",
         "currency": "CHF",
-        "flag": "https://flagcdn.com/w320/li.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/li.png",
         "language": "German"
     },
     {
@@ -996,7 +996,7 @@
         "capital": "Moscow",
         "region": "Europe",
         "currency": "RUB",
-        "flag": "https://flagcdn.com/w320/ru.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ru.png",
         "language": "Russian"
     },
     {
@@ -1004,7 +1004,7 @@
         "capital": "Jerusalem",
         "region": "Asia",
         "currency": "ILS",
-        "flag": "https://flagcdn.com/w320/il.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/il.png",
         "language": "Hebrew"
     },
     {
@@ -1012,7 +1012,7 @@
         "capital": "Singapore",
         "region": "Asia",
         "currency": "SGD",
-        "flag": "https://flagcdn.com/w320/sg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sg.png",
         "language": "English, Malay, Mandarin, Tamil"
     },
     {
@@ -1020,7 +1020,7 @@
         "capital": "Kampala",
         "region": "Africa",
         "currency": "UGX",
-        "flag": "https://flagcdn.com/w320/ug.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ug.png",
         "language": "English, Swahili"
     },
     {
@@ -1028,7 +1028,7 @@
         "capital": "Bratislava",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/sk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sk.png",
         "language": "Slovak"
     },
     {
@@ -1036,7 +1036,7 @@
         "capital": "Nuku'alofa",
         "region": "Oceania",
         "currency": "TOP",
-        "flag": "https://flagcdn.com/w320/to.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/to.png",
         "language": "Tongan, English"
     },
     {
@@ -1044,7 +1044,7 @@
         "capital": "Abu Dhabi",
         "region": "Asia",
         "currency": "AED",
-        "flag": "https://flagcdn.com/w320/ae.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ae.png",
         "language": "Arabic"
     },
     {
@@ -1052,7 +1052,7 @@
         "capital": "Mamoudzou",
         "region": "Africa",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/yt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/yt.png",
         "language": "French"
     },
     {
@@ -1060,7 +1060,7 @@
         "capital": "Paramaribo",
         "region": "Americas",
         "currency": "SRD",
-        "flag": "https://flagcdn.com/w320/sr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sr.png",
         "language": "Dutch"
     },
     {
@@ -1068,7 +1068,7 @@
         "capital": "Tashkent",
         "region": "Asia",
         "currency": "UZS",
-        "flag": "https://flagcdn.com/w320/uz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/uz.png",
         "language": "Uzbek"
     },
     {
@@ -1076,7 +1076,7 @@
         "capital": "Riyadh",
         "region": "Asia",
         "currency": "SAR",
-        "flag": "https://flagcdn.com/w320/sa.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sa.png",
         "language": "Arabic"
     },
     {
@@ -1084,7 +1084,7 @@
         "capital": "Cairo",
         "region": "Africa",
         "currency": "EGP",
-        "flag": "https://flagcdn.com/w320/eg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/eg.png",
         "language": "Arabic"
     },
     {
@@ -1092,7 +1092,7 @@
         "capital": "Rome",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/it.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/it.png",
         "language": "Italian"
     },
     {
@@ -1100,7 +1100,7 @@
         "capital": "Antananarivo",
         "region": "Africa",
         "currency": "MGA",
-        "flag": "https://flagcdn.com/w320/mg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mg.png",
         "language": "Malagasy, French"
     },
     {
@@ -1108,7 +1108,7 @@
         "capital": "Nouméa",
         "region": "Oceania",
         "currency": "XPF",
-        "flag": "https://flagcdn.com/w320/nc.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/nc.png",
         "language": "French"
     },
     {
@@ -1116,7 +1116,7 @@
         "capital": "Ottawa",
         "region": "Americas",
         "currency": "CAD",
-        "flag": "https://flagcdn.com/w320/ca.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ca.png",
         "language": "French"
     },
     {
@@ -1124,7 +1124,7 @@
         "capital": "Charlotte Amalie",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/vi.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/vi.png",
         "language": "English"
     },
     {
@@ -1132,7 +1132,7 @@
         "capital": "Majuro",
         "region": "Oceania",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/mh.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mh.png",
         "language": "Marshallese, English"
     },
     {
@@ -1140,7 +1140,7 @@
         "capital": "Nouakchott",
         "region": "Africa",
         "currency": "MRU",
-        "flag": "https://flagcdn.com/w320/mr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mr.png",
         "language": "Arabic"
     },
     {
@@ -1148,7 +1148,7 @@
         "capital": "Banjul",
         "region": "Africa",
         "currency": "GMD",
-        "flag": "https://flagcdn.com/w320/gm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gm.png",
         "language": "English"
     },
     {
@@ -1156,7 +1156,7 @@
         "capital": "Port of Spain",
         "region": "Americas",
         "currency": "TTD",
-        "flag": "https://flagcdn.com/w320/tt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tt.png",
         "language": "English"
     },
     {
@@ -1164,7 +1164,7 @@
         "capital": "Jamestown",
         "region": "Africa",
         "currency": "SHP",
-        "flag": "https://flagcdn.com/w320/sh.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sh.png",
         "language": "English"
     },
     {
@@ -1172,7 +1172,7 @@
         "capital": "Dodoma",
         "region": "Africa",
         "currency": "TZS",
-        "flag": "https://flagcdn.com/w320/tz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tz.png",
         "language": "Swahili, English"
     },
     {
@@ -1180,7 +1180,7 @@
         "capital": "Andorra la Vella",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/ad.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ad.png",
         "language": "Catalan"
     },
     {
@@ -1188,7 +1188,7 @@
         "capital": "Tehran",
         "region": "Asia",
         "currency": "IRR",
-        "flag": "https://flagcdn.com/w320/ir.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ir.png",
         "language": "Persian"
     },
     {
@@ -1196,7 +1196,7 @@
         "capital": "Lome",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/tg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tg.png",
         "language": "French"
     },
     {
@@ -1204,7 +1204,7 @@
         "capital": "Valletta",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/mt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mt.png",
         "language": "Maltese, English"
     },
     {
@@ -1212,7 +1212,7 @@
         "capital": "Seoul",
         "region": "Asia",
         "currency": "KRW",
-        "flag": "https://flagcdn.com/w320/kr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kr.png",
         "language": "Korean"
     },
     {
@@ -1220,7 +1220,7 @@
         "capital": "Apia",
         "region": "Oceania",
         "currency": "WST",
-        "flag": "https://flagcdn.com/w320/ws.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ws.png",
         "language": "Samoan, English"
     },
     {
@@ -1228,7 +1228,7 @@
         "capital": "Berlin",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/de.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/de.png",
         "language": "German"
     },
     {
@@ -1236,7 +1236,7 @@
         "capital": "Niamey",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/ne.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ne.png",
         "language": "French"
     },
     {
@@ -1244,7 +1244,7 @@
         "capital": "Niamey",
         "region": "Antarctic",
         "currency": "NOK",
-        "flag": "https://flagcdn.com/w320/bv.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bv.png",
         "language": "Norwegian"
     },
     {
@@ -1252,7 +1252,7 @@
         "capital": "Kingston",
         "region": "Americas",
         "currency": "JMD",
-        "flag": "https://flagcdn.com/w320/jm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/jm.png",
         "language": "English"
     },
     {
@@ -1260,7 +1260,7 @@
         "capital": "Managua",
         "region": "Americas",
         "currency": "NIO",
-        "flag": "https://flagcdn.com/w320/ni.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ni.png",
         "language": "Spanish"
     },
     {
@@ -1268,7 +1268,7 @@
         "capital": "Conakry",
         "region": "Africa",
         "currency": "GNF",
-        "flag": "https://flagcdn.com/w320/gn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gn.png",
         "language": "French"
     },
     {
@@ -1276,7 +1276,7 @@
         "capital": "The Valley",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/ai.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ai.png",
         "language": "English"
     },
     {
@@ -1284,7 +1284,7 @@
         "capital": "Mariehamn",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/ax.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ax.png",
         "language": "Swedish"
     },
     {
@@ -1292,7 +1292,7 @@
         "capital": "Brussels",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/be.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/be.png",
         "language": "Dutch, French, German"
     },
     {
@@ -1300,7 +1300,7 @@
         "capital": "Lisbon",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/pt.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pt.png",
         "language": "Portuguese"
     },
     {
@@ -1308,7 +1308,7 @@
         "capital": "Copenhagen",
         "region": "Europe",
         "currency": "DKK",
-        "flag": "https://flagcdn.com/w320/dk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/dk.png",
         "language": "Danish"
     },
     {
@@ -1316,7 +1316,7 @@
         "capital": "Manila",
         "region": "Asia",
         "currency": "PHP",
-        "flag": "https://flagcdn.com/w320/ph.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ph.png",
         "language": "Filipino, English"
     },
     {
@@ -1324,7 +1324,7 @@
         "capital": "Mata-Utu",
         "region": "Oceania",
         "currency": "XPF",
-        "flag": "https://flagcdn.com/w320/wf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/wf.png",
         "language": "French"
     },
     {
@@ -1332,7 +1332,7 @@
         "capital": "Vienna",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/at.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/at.png",
         "language": "German"
     },
     {
@@ -1340,7 +1340,7 @@
         "capital": "Bissau",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/gw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gw.png",
         "language": "Portuguese"
     },
     {
@@ -1348,7 +1348,7 @@
         "capital": "Monaco",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/mc.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mc.png",
         "language": "French"
     },
     {
@@ -1356,7 +1356,7 @@
         "capital": "Windhoek",
         "region": "Africa",
         "currency": "NAD",
-        "flag": "https://flagcdn.com/w320/na.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/na.png",
         "language": "English"
     },
     {
@@ -1364,7 +1364,7 @@
         "capital": "Washington DC",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/um.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/um.png",
         "language": "English"
     },
     {
@@ -1372,7 +1372,7 @@
         "capital": "San Jose",
         "region": "Americas",
         "currency": "CRC",
-        "flag": "https://flagcdn.com/w320/cr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cr.png",
         "language": "Spanish"
     },
     {
@@ -1380,7 +1380,7 @@
         "capital": "Sarajevo",
         "region": "Europe",
         "currency": "BAM",
-        "flag": "https://flagcdn.com/w320/ba.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ba.png",
         "language": "Bosnian, Croatian, Serbian"
     },
     {
@@ -1388,7 +1388,7 @@
         "capital": "Sarajevo",
         "region": "Asia",
         "currency": "MOP",
-        "flag": "https://flagcdn.com/w320/mo.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mo.png",
         "language": "Chinese, Portuguese"
     },
     {
@@ -1396,7 +1396,7 @@
         "capital": "Maputo",
         "region": "Africa",
         "currency": "MZN",
-        "flag": "https://flagcdn.com/w320/mz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mz.png",
         "language": "Portuguese"
     },
     {
@@ -1404,7 +1404,7 @@
         "capital": "Saint-Denis",
         "region": "Africa",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/re.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/re.png",
         "language": "French"
     },
     {
@@ -1412,7 +1412,7 @@
         "capital": "Podgorica",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/me.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/me.png",
         "language": "Montenegrin"
     },
     {
@@ -1420,7 +1420,7 @@
         "capital": "Pyongyang",
         "region": "Asia",
         "currency": "KPW",
-        "flag": "https://flagcdn.com/w320/kp.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kp.png",
         "language": "Korean"
     },
     {
@@ -1428,7 +1428,7 @@
         "capital": "Saipan",
         "region": "Oceania",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/mp.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mp.png",
         "language": "English, Chamorro"
     },
     {
@@ -1436,7 +1436,7 @@
         "capital": "Kyiv",
         "region": "Europe",
         "currency": "UAH",
-        "flag": "https://flagcdn.com/w320/ua.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ua.png",
         "language": "Ukraine - Ukrainian"
     },
     {
@@ -1444,7 +1444,7 @@
         "capital": "Baghdad",
         "region": "Asia",
         "currency": "IQD",
-        "flag": "https://flagcdn.com/w320/iq.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/iq.png",
         "language": "Arabic, Kurdish"
     },
     {
@@ -1452,7 +1452,7 @@
         "capital": "King Edward Point",
         "region": "Antarctic",
         "currency": "GBP",
-        "flag": "https://flagcdn.com/w320/gs.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gs.png",
         "language": "English"
     },
     {
@@ -1460,7 +1460,7 @@
         "capital": "Luanda",
         "region": "Africa",
         "currency": "AOA",
-        "flag": "https://flagcdn.com/w320/ao.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ao.png",
         "language": "Portuguese"
     },
     {
@@ -1468,7 +1468,7 @@
         "capital": "Freetown",
         "region": "Africa",
         "currency": "SLL",
-        "flag": "https://flagcdn.com/w320/sl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sl.png",
         "language": "English"
     },
     {
@@ -1476,7 +1476,7 @@
         "capital": "Palikir",
         "region": "Oceania",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/fm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/fm.png",
         "language": "English"
     },
     {
@@ -1484,7 +1484,7 @@
         "capital": "Havana",
         "region": "Americas",
         "currency": "CUP",
-        "flag": "https://flagcdn.com/w320/cu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cu.png",
         "language": "Spanish"
     },
     {
@@ -1492,7 +1492,7 @@
         "capital": "Cockburn Town",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/tc.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tc.png",
         "language": "English"
     },
     {
@@ -1500,7 +1500,7 @@
         "capital": "Belgrade",
         "region": "Europe",
         "currency": "RSD",
-        "flag": "https://flagcdn.com/w320/rs.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/rs.png",
         "language": "Serbian"
     },
     {
@@ -1508,7 +1508,7 @@
         "capital": "Quito",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/ec.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ec.png",
         "language": "Spanish"
     },
     {
@@ -1524,7 +1524,7 @@
         "capital": "Torshavn",
         "region": "Antarctic",
         "currency": null,
-        "flag": "https://flagcdn.com/w320/aq.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/aq.png",
         "language": "No official language"
     },
     {
@@ -1532,7 +1532,7 @@
         "capital": "Ramallah,Jerusalem",
         "region": "Asia",
         "currency": "JOD",
-        "flag": "https://flagcdn.com/w320/ps.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ps.png",
         "language": "Arabic"
     },
     {
@@ -1540,7 +1540,7 @@
         "capital": "Ankara",
         "region": "Asia",
         "currency": "TRY",
-        "flag": "https://flagcdn.com/w320/tr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tr.png",
         "language": "Turkish"
     },
     {
@@ -1548,7 +1548,7 @@
         "capital": "South Tarawa",
         "region": "Oceania",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/ki.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ki.png",
         "language": "English, Gilbertese"
     },
     {
@@ -1556,7 +1556,7 @@
         "capital": "Nur-Sultan",
         "region": "Asia",
         "currency": "KZT",
-        "flag": "https://flagcdn.com/w320/kz.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/kz.png",
         "language": "Kazakh, Russian"
     },
     {
@@ -1564,7 +1564,7 @@
         "capital": "Gibraltar",
         "region": "Europe",
         "currency": "GIP",
-        "flag": "https://flagcdn.com/w320/gi.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gi.png",
         "language": "English"
     },
     {
@@ -1572,7 +1572,7 @@
         "capital": "Reykjavik",
         "region": "Europe",
         "currency": "ISK",
-        "flag": "https://flagcdn.com/w320/is.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/is.png",
         "language": "Icelandic"
     },
     {
@@ -1580,7 +1580,7 @@
         "capital": "Ngerulmud",
         "region": "Oceania",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/pw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pw.png",
         "language": "Palauan, English"
     },
     {
@@ -1588,7 +1588,7 @@
         "capital": "Doha",
         "region": "Asia",
         "currency": "QAR",
-        "flag": "https://flagcdn.com/w320/qa.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/qa.png",
         "language": "Arabic"
     },
     {
@@ -1596,7 +1596,7 @@
         "capital": "Bern",
         "region": "Europe",
         "currency": "CHF",
-        "flag": "https://flagcdn.com/w320/ch.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ch.png",
         "language": "German, French, Italian, Romansh"
     },
     {
@@ -1604,7 +1604,7 @@
         "capital": "Papeete",
         "region": "Oceania",
         "currency": "XPF",
-        "flag": "https://flagcdn.com/w320/pf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pf.png",
         "language": "French, Tahitian"
     },
     {
@@ -1612,7 +1612,7 @@
         "capital": "Adamstown",
         "region": "Oceania",
         "currency": "NZD",
-        "flag": "https://flagcdn.com/w320/pn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/pn.png",
         "language": "English"
     },
     {
@@ -1620,7 +1620,7 @@
         "capital": "Amman",
         "region": "Asia",
         "currency": "JOD",
-        "flag": "https://flagcdn.com/w320/jo.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/jo.png",
         "language": "Arabic"
     },
     {
@@ -1628,7 +1628,7 @@
         "capital": "Naypyidaw",
         "region": "Asia",
         "currency": "MMK",
-        "flag": "https://flagcdn.com/w320/mm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mm.png",
         "language": "Burmese"
     },
     {
@@ -1636,7 +1636,7 @@
         "capital": "Bangkok",
         "region": "Asia",
         "currency": "THB",
-        "flag": "https://flagcdn.com/w320/th.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/th.png",
         "language": "Thai"
     },
     {
@@ -1644,7 +1644,7 @@
         "capital": "Kralendijk",
         "region": "Americas",
         "currency": "USD",
-        "flag": "https://flagcdn.com/w320/bq.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bq.png",
         "language": "Dutch"
     },
     {
@@ -1652,7 +1652,7 @@
         "capital": "Oranjestad",
         "region": "Americas",
         "currency": "AWG",
-        "flag": "https://flagcdn.com/w320/aw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/aw.png",
         "language": "Dutch, Papiamento"
     },
     {
@@ -1660,7 +1660,7 @@
         "capital": "Basse-Terre",
         "region": "Americas",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/gp.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gp.png",
         "language": "French"
     },
     {
@@ -1668,7 +1668,7 @@
         "capital": "Abuja",
         "region": "Africa",
         "currency": "NGN",
-        "flag": "https://flagcdn.com/w320/ng.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ng.png",
         "language": "English"
     },
     {
@@ -1676,7 +1676,7 @@
         "capital": "Manama",
         "region": "Asia",
         "currency": "BHD",
-        "flag": "https://flagcdn.com/w320/bh.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bh.png",
         "language": "Arabic"
     },
     {
@@ -1684,7 +1684,7 @@
         "capital": "Vientiane",
         "region": "Asia",
         "currency": "LAK",
-        "flag": "https://flagcdn.com/w320/la.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/la.png",
         "language": "Lao"
     },
     {
@@ -1692,7 +1692,7 @@
         "capital": "West Island",
         "region": "Oceania",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/cc.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cc.png",
         "language": "English"
     },
     {
@@ -1700,7 +1700,7 @@
         "capital": "Djibouti",
         "region": "Africa",
         "currency": "DJF",
-        "flag": "https://flagcdn.com/w320/dj.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/dj.png",
         "language": "French, Arabic"
     },
     {
@@ -1708,7 +1708,7 @@
         "capital": "Honiara",
         "region": "Oceania",
         "currency": "SBD",
-        "flag": "https://flagcdn.com/w320/sb.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sb.png",
         "language": "English"
     },
     {
@@ -1716,7 +1716,7 @@
         "capital": "Honiara",
         "region": "Antarctic",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/hm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/hm.png",
         "language": "No official language"
     },
     {
@@ -1724,7 +1724,7 @@
         "capital": "New Delhi",
         "region": "Asia",
         "currency": "INR",
-        "flag": "https://flagcdn.com/w320/in.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/in.png",
         "language": "Hindi, English"
     },
     {
@@ -1732,7 +1732,7 @@
         "capital": "City of San Marino",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/sm.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sm.png",
         "language": "Italian"
     },
     {
@@ -1740,7 +1740,7 @@
         "capital": "Luxembourg",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/lu.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lu.png",
         "language": "Luxembourgish, French, German"
     },
     {
@@ -1748,7 +1748,7 @@
         "capital": "Philipsburg",
         "region": "Americas",
         "currency": "ANG",
-        "flag": "https://flagcdn.com/w320/sx.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/sx.png",
         "language": "Dutch, English"
     },
     {
@@ -1756,7 +1756,7 @@
         "capital": "Stanley",
         "region": "Americas",
         "currency": "FKP",
-        "flag": "https://flagcdn.com/w320/fk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/fk.png",
         "language": "English"
     },
     {
@@ -1764,7 +1764,7 @@
         "capital": "Bangui",
         "region": "Africa",
         "currency": "XAF",
-        "flag": "https://flagcdn.com/w320/cf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cf.png",
         "language": "French, Sango"
     },
     {
@@ -1772,7 +1772,7 @@
         "capital": "Gaborone",
         "region": "Africa",
         "currency": "BWP",
-        "flag": "https://flagcdn.com/w320/bw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bw.png",
         "language": "English, Tswana"
     },
     {
@@ -1780,7 +1780,7 @@
         "capital": "Willemstad",
         "region": "Americas",
         "currency": "ANG",
-        "flag": "https://flagcdn.com/w320/cw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cw.png",
         "language": "Dutch, Papiamento"
     },
     {
@@ -1788,7 +1788,7 @@
         "capital": "St. Peter Port",
         "region": "Europe",
         "currency": "GGP",
-        "flag": "https://flagcdn.com/w320/gg.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/gg.png",
         "language": "English, French, Guernésiais"
     },
     {
@@ -1796,7 +1796,7 @@
         "capital": "Oslo",
         "region": "Europe",
         "currency": "NOK",
-        "flag": "https://flagcdn.com/w320/no.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/no.png",
         "language": "Norwegian"
     },
     {
@@ -1804,7 +1804,7 @@
         "capital": "Libreville",
         "region": "Africa",
         "currency": "XAF",
-        "flag": "https://flagcdn.com/w320/ga.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ga.png",
         "language": "French"
     },
     {
@@ -1812,7 +1812,7 @@
         "capital": "Harare",
         "region": "Africa",
         "currency": "ZWL",
-        "flag": "https://flagcdn.com/w320/zw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/zw.png",
         "language": "English, Shona, Sindebele"
     },
     {
@@ -1820,7 +1820,7 @@
         "capital": "Maseru",
         "region": "Africa",
         "currency": "LSL-ZAR",
-        "flag": "https://flagcdn.com/w320/ls.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ls.png",
         "language": "Sesotho, English"
     },
     {
@@ -1828,7 +1828,7 @@
         "capital": "Ljubljana",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/si.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/si.png",
         "language": "Slovene"
     },
     {
@@ -1836,7 +1836,7 @@
         "capital": "Buenos Aires",
         "region": "Americas",
         "currency": "ARS",
-        "flag": "https://flagcdn.com/w320/ar.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ar.png",
         "language": "Spanish"
     },
     {
@@ -1844,7 +1844,7 @@
         "capital": "Ouagadougou",
         "region": "Africa",
         "currency": "XOF",
-        "flag": "https://flagcdn.com/w320/bf.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/bf.png",
         "language": "French"
     },
     {
@@ -1852,7 +1852,7 @@
         "capital": "Sana'a",
         "region": "Asia",
         "currency": "YER",
-        "flag": "https://flagcdn.com/w320/ye.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ye.png",
         "language": "Arabic"
     },
     {
@@ -1860,7 +1860,7 @@
         "capital": "Kinshasa",
         "region": "Africa",
         "currency": "XDF",
-        "flag": "https://flagcdn.com/w320/cd.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/cd.png",
         "language": "French"
     },
     {
@@ -1868,7 +1868,7 @@
         "capital": "Muscat",
         "region": "Asia",
         "currency": "OMR",
-        "flag": "https://flagcdn.com/w320/om.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/om.png",
         "language": "Arabic"
     },
     {
@@ -1876,7 +1876,7 @@
         "capital": "Jakarta",
         "region": "Asia",
         "currency": "IDR",
-        "flag": "https://flagcdn.com/w320/id.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/id.png",
         "language": "Indonesian"
     },
     {
@@ -1884,7 +1884,7 @@
         "capital": "Yaren",
         "region": "Oceania",
         "currency": "AUD",
-        "flag": "https://flagcdn.com/w320/nr.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/nr.png",
         "language": "Nauruan, English"
     },
     {
@@ -1892,7 +1892,7 @@
         "capital": "Kigali",
         "region": "Africa",
         "currency": "RWF",
-        "flag": "https://flagcdn.com/w320/rw.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/rw.png",
         "language": "Kinyarwanda, French, English"
     },
     {
@@ -1900,7 +1900,7 @@
         "capital": "Skopje",
         "region": "Europe",
         "currency": "MKD",
-        "flag": "https://flagcdn.com/w320/mk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/mk.png",
         "language": "Macedonian"
     },
     {
@@ -1908,7 +1908,7 @@
         "capital": "Pristina",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/xk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/xk.png",
         "language": "Albanian, Serbian"
     },
     {
@@ -1916,7 +1916,7 @@
         "capital": "Amsterdam",
         "region": "Europe",
         "currency": "EUR",
-        "flag": "https://flagcdn.com/w320/nl.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/nl.png",
         "language": "Dutch"
     },
     {
@@ -1924,7 +1924,7 @@
         "capital": "Tunis",
         "region": "Africa",
         "currency": "TND",
-        "flag": "https://flagcdn.com/w320/tn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/tn.png",
         "language": "Arabic"
     },
     {
@@ -1932,7 +1932,7 @@
         "capital": "Juba",
         "region": "Africa",
         "currency": "SSP",
-        "flag": "https://flagcdn.com/w320/ss.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/ss.png",
         "language": "English"
     },
     {
@@ -1940,7 +1940,7 @@
         "capital": "Tegucigalpa",
         "region": "Americas",
         "currency": "HNL",
-        "flag": "https://flagcdn.com/w320/hn.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/hn.png",
         "language": "Spanish"
     },
     {
@@ -1948,7 +1948,7 @@
         "capital": "Kingstown",
         "region": "Americas",
         "currency": "XCD",
-        "flag": "https://flagcdn.com/w320/vc.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/vc.png",
         "language": "English"
     },
     {
@@ -1956,7 +1956,7 @@
         "capital": "Sri Jayawardenepura Kotte",
         "region": "Asia",
         "currency": "LKR",
-        "flag": "https://flagcdn.com/w320/lk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/lk.png",
         "language": "Sinhala, Tamil"
     },
     {
@@ -1964,7 +1964,7 @@
         "capital": "City of Victoria",
         "region": "Asia",
         "currency": "HKD",
-        "flag": "https://flagcdn.com/w320/hk.png",
+        "flag": "https://raw.githubusercontent.com/ardahangokhan/Countries/main/hk.png",
         "language": "Chinese, English"
     }
 
