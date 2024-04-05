@@ -1,0 +1,1971 @@
+[
+    {
+        "name": "Republic of Cyprus",
+        "capital": "Nicosia",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/cy.png",
+        "language": "Greek,Turkish"
+    },
+    {
+        "name": "State of Eritrea",
+        "capital": "Asmara",
+        "region": "Africa",
+        "currency": "ERN",
+        "flag": "https://flagcdn.com/w320/er.png",
+        "language": "Tigrinya, Arabic, English"
+    },
+    {
+        "name": "Republic of Liberia",
+        "capital": "Monrovia",
+        "region": "Africa",
+        "currency": "LRD",
+        "flag": "https://flagcdn.com/w320/lr.png",
+        "language": "English"
+    },
+    {
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "region": "Americas",
+        "currency": "BMD",
+        "flag": "https://flagcdn.com/w320/bm.png",
+        "language": "English"
+    },
+    {
+        "name": "Vatican City State",
+        "capital": "Vatican City",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/va.png",
+        "language": "Latin, Italian"
+    },
+    {
+        "name": "Cook Islands",
+        "capital": "Avarua",
+        "region": "Oceania",
+        "currency": "NZD",
+        "flag": "https://flagcdn.com/w320/ck.png",
+        "language": "English, Cook Islands Māori"
+    },
+    {
+        "name": "Federal Republic of Somalia",
+        "capital": "Mogadishu",
+        "region": "Africa",
+        "currency": "SOS",
+        "flag": "https://flagcdn.com/w320/so.png",
+        "language": "Somali, Arabic"
+    },
+    {
+        "name": "Republic of Zambia",
+        "capital": "Lusaka",
+        "region": "Africa",
+        "currency": "ZMW",
+        "flag": "https://flagcdn.com/w320/zm.png",
+        "language": "English"
+    },
+    {
+        "name": "Bolivarian Republic of Venezuela",
+        "capital": "Caracas",
+        "region": "Americas",
+        "currency": "VES",
+        "flag": "https://flagcdn.com/w320/ve.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "region": "Asia",
+        "currency": "TMT",
+        "flag": "https://flagcdn.com/w320/tm.png",
+        "language": "Turkmen"
+    },
+    {
+        "name": "Republic of Albania",
+        "capital": "Tirana",
+        "region": "Europe",
+        "currency": "ALL",
+        "flag": "https://flagcdn.com/w320/al.png",
+        "language": "Albanian"
+    },
+    {
+        "name": "Republic of Croatia",
+        "capital": "Zagreb",
+        "region": "Europe",
+        "currency": "HRK",
+        "flag": "https://flagcdn.com/w320/hr.png",
+        "language": "Croatian"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "capital": "London",
+        "region": "Europe",
+        "currency": "GBP",
+        "flag": "https://flagcdn.com/w320/gb.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of the Sudan",
+        "capital": "Khartoum",
+        "region": "Africa",
+        "currency": "SDG",
+        "flag": "https://flagcdn.com/w320/sd.png",
+        "language": "Arabic, English"
+    },
+    {
+        "name": "Democratic Republic of Timor-Leste",
+        "capital": "Dili",
+        "region": "Asia",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/tl.png",
+        "language": "Tetum, Portuguese"
+    },
+    {
+        "name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "region": "Africa",
+        "currency": "XAF",
+        "flag": "https://flagcdn.com/w320/cg.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Azerbaijan",
+        "capital": "Baku",
+        "region": "Asia",
+        "currency": "AZN",
+        "flag": "https://flagcdn.com/w320/az.png",
+        "language": "Azerbaijani"
+    },
+    {
+        "name": "Republic of Kenya",
+        "capital": "Nairobi",
+        "region": "Africa",
+        "currency": "KES",
+        "flag": "https://flagcdn.com/w320/ke.png",
+        "language": "Swahili, English"
+    },
+    {
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "region": "Oceania",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/as.png",
+        "language": "English, Samoan"
+    },
+    {
+        "name": "Republic of Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/ci.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Senegal",
+        "capital": "Dakar",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/sn.png",
+        "language": "French"
+    },
+    {
+        "name": "Socialist Republic of Vietnam",
+        "capital": "Hanoi",
+        "region": "Asia",
+        "currency": "VND",
+        "flag": "https://flagcdn.com/w320/vn.png",
+        "language": "Vietnamese"
+    },
+    {
+        "name": "Republic of El Salvador",
+        "capital": "San Salvador",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/sv.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Islamic Republic of Afghanistan",
+        "capital": "Kabul",
+        "region": "Asia",
+        "currency": "AFN",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+        "language": "Pashto, Dari"
+    },
+    {
+        "name": "Saint Martin",
+        "capital": "Marigot",
+        "region": "Americas",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/mf.png",
+        "language": "French, Dutch"
+    },
+    {
+        "name": "Republic of Latvia",
+        "capital": "Riga",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/lv.png",
+        "language": "Latvian"
+    },
+    {
+        "name": "Republic of Guatemala",
+        "capital": "Guatemala City",
+        "region": "Americas",
+        "currency": "GTQ",
+        "flag": "https://flagcdn.com/w320/gt.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "State of Kuwait",
+        "capital": "Kuwait City",
+        "region": "Asia",
+        "currency": "KWD",
+        "flag": "https://flagcdn.com/w320/kw.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Democratic Republic of São Tomé and Príncipe",
+        "capital": "São Tomé",
+        "region": "Africa",
+        "currency": "STD",
+        "flag": "https://flagcdn.com/w320/st.png",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Kyrgyz Republic",
+        "capital": "Bishkek",
+        "region": "Asia",
+        "currency": "KGS",
+        "flag": "https://flagcdn.com/w320/kg.png",
+        "language": "Kyrgyz, Russian"
+    },
+    {
+        "name": "Republic of Poland",
+        "capital": "Warsaw",
+        "region": "Europe",
+        "currency": "PLN",
+        "flag": "https://flagcdn.com/w320/pl.png",
+        "language": "Polish"
+    },
+    {
+        "name": "Guam",
+        "capital": "Hagåtña",
+        "region": "Oceania",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/gu.png",
+        "language": "Chamorro"
+    },
+    {
+        "name": "Republic of Ghana",
+        "capital": "Accra",
+        "region": "Africa",
+        "currency": "GHS",
+        "flag": "https://flagcdn.com/w320/gh.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Lithuania",
+        "capital": "Vilnius",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/lt.png",
+        "language": "Lithuanian"
+    },
+    {
+        "name": "Republic of Armenia",
+        "capital": "Yerevan",
+        "region": "Asia",
+        "currency": "AMD",
+        "flag": "https://flagcdn.com/w320/am.png",
+        "language": "Armenian"
+    },
+    {
+        "name": "Bailiwick of Jersey",
+        "capital": "Saint Helier",
+        "region": "Europe",
+        "currency": "GBP",
+        "flag": "https://flagcdn.com/w320/je.png",
+        "language": "English, French, Jèrriais"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St. George's",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/gd.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Tajikistan",
+        "capital": "Dushanbe",
+        "region": "Asia",
+        "currency": "TJS",
+        "flag": "https://flagcdn.com/w320/tj.png",
+        "language": "Tajik"
+    },
+    {
+        "name": "Federal Democratic Republic of Ethiopia",
+        "capital": "Addis Ababa",
+        "region": "Africa",
+        "currency": "ETB",
+        "flag": "https://flagcdn.com/w320/et.png",
+        "language": "Amharic"
+    },
+    {
+        "name": "Sahrawi Arab Democratic Republic",
+        "capital": "El Aaiún",
+        "region": "Africa",
+        "currency": "DZD",
+        "flag": "https://flagcdn.com/w320/eh.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Kingdom of Morocco",
+        "capital": "Rabat",
+        "region": "Africa",
+        "currency": "MAD",
+        "flag": "https://flagcdn.com/w320/ma.png",
+        "language": "Arabic, Berber"
+    },
+    {
+        "name": "Commonwealth of Puerto Rico",
+        "capital": "San Juan",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/pr.png",
+        "language": "Spanish, English"
+    },
+    {
+        "name": "Territory of Christmas Island",
+        "capital": "Flying Fish Cove",
+        "region": "Oceania",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/cx.png",
+        "language": "English"
+    },
+    {
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "region": "Oceania",
+        "currency": "NZD",
+        "flag": "https://flagcdn.com/w320/nz.png",
+        "language": "English, Māori"
+    },
+    {
+        "name": "Nation of Brunei, Abode of Peace",
+        "capital": "Bandar Seri Begawan",
+        "region": "Asia",
+        "currency": "BND",
+        "flag": "https://flagcdn.com/w320/bn.png",
+        "language": "Malay"
+    },
+    {
+        "name": "Guiana",
+        "capital": "Cayenne",
+        "region": "Americas",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/gf.png",
+        "language": "French"
+    },
+    {
+        "name": "Niue",
+        "capital": "Alofi",
+        "region": "Oceania",
+        "currency": "NZD",
+        "flag": "https://flagcdn.com/w320/nu.png",
+        "language": "English, Niuean"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "region": "Europe",
+        "currency": "RON",
+        "flag": "https://flagcdn.com/w320/ro.png",
+        "language": "Romanian"
+    },
+    {
+        "name": "Svalbard og Jan Mayen",
+        "capital": "Longyearbyen",
+        "region": "Europe",
+        "currency": "NOK",
+        "flag": "https://flagcdn.com/w320/sj.png",
+        "language": "Norwegian"
+    },
+    {
+        "name": "Republic of Belarus",
+        "capital": "Minsk",
+        "region": "Europe",
+        "currency": "BYN",
+        "flag": "https://flagcdn.com/w320/by.png",
+        "language": "Belarusian"
+    },
+    {
+        "name": "Republic of Panama",
+        "capital": "Panama City",
+        "region": "Americas",
+        "currency": "PAB",
+        "flag": "https://flagcdn.com/w320/pa.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Republic of Cameroon",
+        "capital": "Yaoundé",
+        "region": "Africa",
+        "currency": "XAF",
+        "flag": "https://flagcdn.com/w320/cm.png",
+        "language": "French, English"
+    },
+    {
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "region": "Europe",
+        "currency": "CZK",
+        "flag": "https://flagcdn.com/w320/cz.png",
+        "language": "Czech"
+    },
+    {
+        "name": "Collectivity of Saint Barthélemy",
+        "capital": "Gustavia",
+        "region": "Americas",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/bl.png",
+        "language": "French"
+    },
+    {
+        "name": "Hellenic Republic",
+        "capital": "Athens",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/gr.png",
+        "language": "Greek"
+    },
+    {
+        "name": "Republic of Mali",
+        "capital": "Bamako",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/ml.png",
+        "language": "French"
+    },
+    {
+        "name": "Martinique",
+        "capital": "Fort-de-France",
+        "region": "Americas",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/mq.png",
+        "language": "French"
+    },
+    {
+        "name": "French Republic",
+        "capital": "Paris",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/fr.png",
+        "language": "French"
+    },
+    {
+        "name": "Islamic Republic of Pakistan",
+        "capital": "Islamabad",
+        "region": "Asia",
+        "currency": "PKR",
+        "flag": "https://flagcdn.com/w320/pk.png",
+        "language": "Urdu"
+    },
+    {
+        "name": "Republic of Peru",
+        "capital": "Lima",
+        "region": "Americas",
+        "currency": "PEN",
+        "flag": "https://flagcdn.com/w320/pe.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "region": "Americas",
+        "currency": "BBD",
+        "flag": "https://flagcdn.com/w320/bb.png",
+        "language": "English"
+    },
+    {
+        "name": "Greenland",
+        "capital": "Nuuk",
+        "region": "Americas",
+        "currency": "DKK",
+        "flag": "https://flagcdn.com/w320/gl.png",
+        "language": "Greenlandic, Danish"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "region": "Americas",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/pm.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Chad",
+        "capital": "N'Djamena",
+        "region": "Africa",
+        "currency": "XAF",
+        "flag": "https://flagcdn.com/w320/td.png",
+        "language": "French, Arabic"
+    },
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "region": "Europe",
+        "currency": "HUF",
+        "flag": "https://flagcdn.com/w320/hu.png",
+        "language": "Hungarian"
+    },
+    {
+        "name": "Union of the Comoros",
+        "capital": "Moroni",
+        "region": "Africa",
+        "currency": "KMF",
+        "flag": "https://flagcdn.com/w320/km.png",
+        "language": "Arabic, French, Comorian"
+    },
+    {
+        "name": "People's Republic of Bangladesh",
+        "capital": "Dhaka",
+        "region": "Asia",
+        "currency": "BDT",
+        "flag": "https://flagcdn.com/w320/bd.png",
+        "language": "Bengali"
+    },
+    {
+        "name": "Tokelau",
+        "capital": "Fakaofo",
+        "region": "Oceania",
+        "currency": "NZD",
+        "flag": "https://flagcdn.com/w320/tk.png",
+        "language": "Tokelauan, English"
+    },
+    {
+        "name": "Republic of Fiji",
+        "capital": "Suva",
+        "region": "Oceania",
+        "currency": "FJD",
+        "flag": "https://flagcdn.com/w320/fj.png",
+        "language": "English, Fijian, Hindi"
+    },
+    {
+        "name": "People's Republic of China",
+        "capital": "Beijing",
+        "region": "Asia",
+        "currency": "CNY",
+        "flag": "https://flagcdn.com/w320/cn.png",
+        "language": "Standard Chinese (Mandarin)"
+    },
+    {
+        "name": "Republic of Colombia",
+        "capital": "Bogotá",
+        "region": "Americas",
+        "currency": "COP",
+        "flag": "https://flagcdn.com/w320/co.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Virgin Islands",
+        "capital": "Road Town",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/vg.png",
+        "language": "English"
+    },
+    {
+        "name": "People's Democratic Republic of Algeria",
+        "capital": "Algiers",
+        "region": "Africa",
+        "currency": "DZD",
+        "flag": "https://flagcdn.com/w320/dz.png",
+        "language": "Arabic, Berber"
+    },
+    {
+        "name": "Republic of the Maldives",
+        "capital": "Malé",
+        "region": "Asia",
+        "currency": "MVR",
+        "flag": "https://flagcdn.com/w320/mv.png",
+        "language": "Dhivehi"
+    },
+    {
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "region": "Asia",
+        "currency": "MYR",
+        "flag": "https://flagcdn.com/w320/my.png",
+        "language": "Malay"
+    },
+    {
+        "name": "Cayman Islands",
+        "capital": "George Town",
+        "region": "Americas",
+        "currency": "KYD",
+        "flag": "https://flagcdn.com/w320/ky.png",
+        "language": "English"
+    },
+    {
+        "name": "Kingdom of Spain",
+        "capital": "Madrid",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/es.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Republic of Ireland",
+        "capital": "Dublin",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/ie.png",
+        "language": "Irish, English"
+    },
+    {
+        "name": "Republic of Estonia",
+        "capital": "Tallinn",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/ee.png",
+        "language": "Estonian"
+    },
+    {
+        "name": "Republic of Paraguay",
+        "capital": "Asunción",
+        "region": "Americas",
+        "currency": "PYG",
+        "flag": "https://flagcdn.com/w320/py.png",
+        "language": "Spanish, Guarani"
+    },
+    {
+        "name": "Oriental Republic of Uruguay",
+        "capital": "Montevideo",
+        "region": "Americas",
+        "currency": "UYU",
+        "flag": "https://flagcdn.com/w320/uy.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Republic of South Africa",
+        "capital": "Pretoria,Bloemfontein,Cape Town",
+        "region": "Africa",
+        "currency": "ZAR",
+        "flag": "https://flagcdn.com/w320/za.png",
+        "language": "Afrikaans, English, Zulu, Xhosa, others"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/lc.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Vanuatu",
+        "capital": "Port Vila",
+        "region": "Oceania",
+        "currency": "VUV",
+        "flag": "https://flagcdn.com/w320/vu.png",
+        "language": "Bislama, English, French"
+    },
+    {
+        "name": "Republic of Finland",
+        "capital": "Helsinki",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/fi.png",
+        "language": "Finnish, Swedish"
+    },
+    {
+        "name": "Kingdom of Sweden",
+        "capital": "Stockholm",
+        "region": "Europe",
+        "currency": "SEK",
+        "flag": "https://flagcdn.com/w320/se.png",
+        "language": "Swedish"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "region": "Africa",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/io.png",
+        "language": "English"
+    },
+    {
+        "name": "Lebanese Republic",
+        "capital": "Beirut",
+        "region": "Asia",
+        "currency": "LBP",
+        "flag": "https://flagcdn.com/w320/lb.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/us.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Chile",
+        "capital": "Santiago",
+        "region": "Americas",
+        "currency": "CLP",
+        "flag": "https://flagcdn.com/w320/cl.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Territory of Norfolk Island",
+        "capital": "Kingston",
+        "region": "Oceania",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/nf.png",
+        "language": "English"
+    },
+    {
+        "name": "Montserrat",
+        "capital": "Plymouth",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/ms.png",
+        "language": "English"
+    },
+    {
+        "name": "Commonwealth of Australia",
+        "capital": "Canberra",
+        "region": "Oceania",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/au.png",
+        "language": "English"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "region": "Americas",
+        "currency": "BZD",
+        "flag": "https://flagcdn.com/w320/bz.png",
+        "language": "English"
+    },
+    {
+        "name": "Co-operative Republic of Guyana",
+        "capital": "Georgetown",
+        "region": "Americas",
+        "currency": "GYD",
+        "flag": "https://flagcdn.com/w320/gy.png",
+        "language": "English"
+    },
+    {
+        "name": "Mongolia",
+        "capital": "Ulan Bator",
+        "region": "Asia",
+        "currency": "MNT",
+        "flag": "https://flagcdn.com/w320/mn.png",
+        "language": "Mongolian"
+    },
+    {
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "region": "Oceania",
+        "currency": "TVD",
+        "flag": "https://flagcdn.com/w320/tv.png",
+        "language": "Tuvaluan, English"
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "region": "Americas",
+        "currency": "DOP",
+        "flag": "https://flagcdn.com/w320/do.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Republic of Equatorial Guinea",
+        "capital": "Malabo",
+        "region": "Africa",
+        "currency": "XAF",
+        "flag": "https://flagcdn.com/w320/gq.png",
+        "language": "Spanish, French, Portuguese"
+    },
+    {
+        "name": "Federation of Saint Christopher and Nevis",
+        "capital": "Basseterre",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/kn.png",
+        "language": "English"
+    },
+    {
+        "name": "Plurinational State of Bolivia",
+        "capital": "Sucre",
+        "region": "Americas",
+        "currency": "BOB",
+        "flag": "https://flagcdn.com/w320/bo.png",
+        "language": "Spanish, Quechua, Aymara"
+    },
+    {
+        "name": "Federal Democratic Republic of Nepal",
+        "capital": "Kathmandu",
+        "region": "Asia",
+        "currency": "NPR",
+        "flag": "https://flagcdn.com/w320/np.png",
+        "language": "Nepali"
+    },
+    {
+        "name": "Territory of the French Southern and Antarctic Lands",
+        "capital": "Port-aux-Français",
+        "region": "Antarctic",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/tf.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of China (Taiwan)",
+        "capital": "Taipei",
+        "region": "Asia",
+        "currency": "TWD",
+        "flag": "https://flagcdn.com/w320/tw.png",
+        "language": "Mandarin"
+    },
+    {
+        "name": "Republic of Benin",
+        "capital": "Porto-Novo",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/bj.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Bulgaria",
+        "capital": "Sofia",
+        "region": "Europe",
+        "currency": "BGN",
+        "flag": "https://flagcdn.com/w320/bg.png",
+        "language": "Bulgarian"
+    },
+    {
+        "name": "Republic of Moldova",
+        "capital": "Chișinău",
+        "region": "Europe",
+        "currency": "MDL",
+        "flag": "https://flagcdn.com/w320/md.png",
+        "language": "Moldovan (Romanian)"
+    },
+    {
+        "name": "Isle of Man",
+        "capital": "Douglas",
+        "region": "Europe",
+        "currency": "IMP",
+        "flag": "https://flagcdn.com/w320/im.png",
+        "language": "English, Manx"
+    },
+    {
+        "name": "Kingdom of Bhutan",
+        "capital": "Thimphu",
+        "region": "Asia",
+        "currency": "BTN",
+        "flag": "https://flagcdn.com/w320/bt.png",
+        "language": "Dzongkha"
+    },
+    {
+        "name": "Kingdom of Cambodia",
+        "capital": "Phnom Penh",
+        "region": "Asia",
+        "currency": "KHR",
+        "flag": "https://flagcdn.com/w320/kh.png",
+        "language": "Khmer"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/ag.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Haiti",
+        "capital": "Port-au-Prince",
+        "region": "Americas",
+        "currency": "HTG",
+        "flag": "https://flagcdn.com/w320/ht.png",
+        "language": "French, Haitian Creole"
+    },
+    {
+        "name": "Republic of Cabo Verde",
+        "capital": "Praia",
+        "region": "Africa",
+        "currency": "CVE",
+        "flag": "https://flagcdn.com/w320/cv.png",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "region": "Asia",
+        "currency": "GEL",
+        "flag": "https://flagcdn.com/w320/ge.png",
+        "language": "Georgian"
+    },
+    {
+        "name": "Republic of Burundi",
+        "capital": "Gitega",
+        "region": "Africa",
+        "currency": "BIF",
+        "flag": "https://flagcdn.com/w320/bi.png",
+        "language": "Kirundi, French"
+    },
+    {
+        "name": "Commonwealth of the Bahamas",
+        "capital": "Nassau",
+        "region": "Americas",
+        "currency": "BSD",
+        "flag": "https://flagcdn.com/w320/bs.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Mauritius",
+        "capital": "Port Louis",
+        "region": "Africa",
+        "currency": "MUR",
+        "flag": "https://flagcdn.com/w320/mu.png",
+        "language": "English, French, Mauritian Creole"
+    },
+    {
+        "name": "State of Libya",
+        "capital": "Tripoli",
+        "region": "Africa",
+        "currency": "LYD",
+        "flag": "https://flagcdn.com/w320/ly.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Republic of Malawi",
+        "capital": "Lilongwe",
+        "region": "Africa",
+        "currency": "MWK",
+        "flag": "https://flagcdn.com/w320/mw.png",
+        "language": "English, Chewa"
+    },
+    {
+        "name": "United Mexican States",
+        "capital": "Mexico City",
+        "region": "Americas",
+        "currency": "MXN",
+        "flag": "https://flagcdn.com/w320/mx.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Kingdom of Eswatini",
+        "capital": "Mbabane",
+        "region": "Africa",
+        "currency": "SZL",
+        "flag": "https://flagcdn.com/w320/sz.png",
+        "language": "Swazi, English"
+    },
+    {
+        "name": "Independent State of Papua New Guinea",
+        "capital": "Port Moresby",
+        "region": "Oceania",
+        "currency": "PGK",
+        "flag": "https://flagcdn.com/w320/pg.png",
+        "language": "English, Hiri Motu, Tok Pisin"
+    },
+    {
+        "name": "Commonwealth of Dominica",
+        "capital": "Roseau",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/dm.png",
+        "language": "English"
+    },
+    {
+        "name": "Principality of Liechtenstein",
+        "capital": "Vaduz",
+        "region": "Europe",
+        "currency": "CHF",
+        "flag": "https://flagcdn.com/w320/li.png",
+        "language": "German"
+    },
+    {
+        "name": "Russian Federation",
+        "capital": "Moscow",
+        "region": "Europe",
+        "currency": "RUB",
+        "flag": "https://flagcdn.com/w320/ru.png",
+        "language": "Russian"
+    },
+    {
+        "name": "State of Israel",
+        "capital": "Jerusalem",
+        "region": "Asia",
+        "currency": "ILS",
+        "flag": "https://flagcdn.com/w320/il.png",
+        "language": "Hebrew"
+    },
+    {
+        "name": "Republic of Singapore",
+        "capital": "Singapore",
+        "region": "Asia",
+        "currency": "SGD",
+        "flag": "https://flagcdn.com/w320/sg.png",
+        "language": "English, Malay, Mandarin, Tamil"
+    },
+    {
+        "name": "Republic of Uganda",
+        "capital": "Kampala",
+        "region": "Africa",
+        "currency": "UGX",
+        "flag": "https://flagcdn.com/w320/ug.png",
+        "language": "English, Swahili"
+    },
+    {
+        "name": "Slovak Republic",
+        "capital": "Bratislava",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/sk.png",
+        "language": "Slovak"
+    },
+    {
+        "name": "Kingdom of Tonga",
+        "capital": "Nuku'alofa",
+        "region": "Oceania",
+        "currency": "TOP",
+        "flag": "https://flagcdn.com/w320/to.png",
+        "language": "Tongan, English"
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "region": "Asia",
+        "currency": "AED",
+        "flag": "https://flagcdn.com/w320/ae.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Department of Mayotte",
+        "capital": "Mamoudzou",
+        "region": "Africa",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/yt.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Suriname",
+        "capital": "Paramaribo",
+        "region": "Americas",
+        "currency": "SRD",
+        "flag": "https://flagcdn.com/w320/sr.png",
+        "language": "Dutch"
+    },
+    {
+        "name": "Republic of Uzbekistan",
+        "capital": "Tashkent",
+        "region": "Asia",
+        "currency": "UZS",
+        "flag": "https://flagcdn.com/w320/uz.png",
+        "language": "Uzbek"
+    },
+    {
+        "name": "Kingdom of Saudi Arabia",
+        "capital": "Riyadh",
+        "region": "Asia",
+        "currency": "SAR",
+        "flag": "https://flagcdn.com/w320/sa.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Arab Republic of Egypt",
+        "capital": "Cairo",
+        "region": "Africa",
+        "currency": "EGP",
+        "flag": "https://flagcdn.com/w320/eg.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Italian Republic",
+        "capital": "Rome",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/it.png",
+        "language": "Italian"
+    },
+    {
+        "name": "Republic of Madagascar",
+        "capital": "Antananarivo",
+        "region": "Africa",
+        "currency": "MGA",
+        "flag": "https://flagcdn.com/w320/mg.png",
+        "language": "Malagasy, French"
+    },
+    {
+        "name": "New Caledonia",
+        "capital": "Nouméa",
+        "region": "Oceania",
+        "currency": "XPF",
+        "flag": "https://flagcdn.com/w320/nc.png",
+        "language": "French"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "region": "Americas",
+        "currency": "CAD",
+        "flag": "https://flagcdn.com/w320/ca.png",
+        "language": "French"
+    },
+    {
+        "name": "Virgin Islands of the United States",
+        "capital": "Charlotte Amalie",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/vi.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of the Marshall Islands",
+        "capital": "Majuro",
+        "region": "Oceania",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/mh.png",
+        "language": "Marshallese, English"
+    },
+    {
+        "name": "Islamic Republic of Mauritania",
+        "capital": "Nouakchott",
+        "region": "Africa",
+        "currency": "MRU",
+        "flag": "https://flagcdn.com/w320/mr.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Republic of the Gambia",
+        "capital": "Banjul",
+        "region": "Africa",
+        "currency": "GMD",
+        "flag": "https://flagcdn.com/w320/gm.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "region": "Americas",
+        "currency": "TTD",
+        "flag": "https://flagcdn.com/w320/tt.png",
+        "language": "English"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "region": "Africa",
+        "currency": "SHP",
+        "flag": "https://flagcdn.com/w320/sh.png",
+        "language": "English"
+    },
+    {
+        "name": "United Republic of Tanzania",
+        "capital": "Dodoma",
+        "region": "Africa",
+        "currency": "TZS",
+        "flag": "https://flagcdn.com/w320/tz.png",
+        "language": "Swahili, English"
+    },
+    {
+        "name": "Principality of Andorra",
+        "capital": "Andorra la Vella",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/ad.png",
+        "language": "Catalan"
+    },
+    {
+        "name": "Islamic Republic of Iran",
+        "capital": "Tehran",
+        "region": "Asia",
+        "currency": "IRR",
+        "flag": "https://flagcdn.com/w320/ir.png",
+        "language": "Persian"
+    },
+    {
+        "name": "Togolese Republic",
+        "capital": "Lome",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/tg.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Malta",
+        "capital": "Valletta",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/mt.png",
+        "language": "Maltese, English"
+    },
+    {
+        "name": "Republic of Korea",
+        "capital": "Seoul",
+        "region": "Asia",
+        "currency": "KRW",
+        "flag": "https://flagcdn.com/w320/kr.png",
+        "language": "Korean"
+    },
+    {
+        "name": "Independent State of Samoa",
+        "capital": "Apia",
+        "region": "Oceania",
+        "currency": "WST",
+        "flag": "https://flagcdn.com/w320/ws.png",
+        "language": "Samoan, English"
+    },
+    {
+        "name": "Federal Republic of Germany",
+        "capital": "Berlin",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/de.png",
+        "language": "German"
+    },
+    {
+        "name": "Republic of Niger",
+        "capital": "Niamey",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/ne.png",
+        "language": "French"
+    },
+    {
+        "name": "Bouvet Island",
+        "capital": "Niamey",
+        "region": "Antarctic",
+        "currency": "NOK",
+        "flag": "https://flagcdn.com/w320/bv.png",
+        "language": "Norwegian"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "region": "Americas",
+        "currency": "JMD",
+        "flag": "https://flagcdn.com/w320/jm.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Nicaragua",
+        "capital": "Managua",
+        "region": "Americas",
+        "currency": "NIO",
+        "flag": "https://flagcdn.com/w320/ni.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Republic of Guinea",
+        "capital": "Conakry",
+        "region": "Africa",
+        "currency": "GNF",
+        "flag": "https://flagcdn.com/w320/gn.png",
+        "language": "French"
+    },
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/ai.png",
+        "language": "English"
+    },
+    {
+        "name": "Aland Islands",
+        "capital": "Mariehamn",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/ax.png",
+        "language": "Swedish"
+    },
+    {
+        "name": "Kingdom of Belgium",
+        "capital": "Brussels",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/be.png",
+        "language": "Dutch, French, German"
+    },
+    {
+        "name": "Portuguese Republic",
+        "capital": "Lisbon",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/pt.png",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Kingdom of Denmark",
+        "capital": "Copenhagen",
+        "region": "Europe",
+        "currency": "DKK",
+        "flag": "https://flagcdn.com/w320/dk.png",
+        "language": "Danish"
+    },
+    {
+        "name": "Republic of the Philippines",
+        "capital": "Manila",
+        "region": "Asia",
+        "currency": "PHP",
+        "flag": "https://flagcdn.com/w320/ph.png",
+        "language": "Filipino, English"
+    },
+    {
+        "name": "Territory of the Wallis and Futuna Islands",
+        "capital": "Mata-Utu",
+        "region": "Oceania",
+        "currency": "XPF",
+        "flag": "https://flagcdn.com/w320/wf.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Austria",
+        "capital": "Vienna",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/at.png",
+        "language": "German"
+    },
+    {
+        "name": "Republic of Guinea-Bissau",
+        "capital": "Bissau",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/gw.png",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Principality of Monaco",
+        "capital": "Monaco",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/mc.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Namibia",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "currency": "NAD",
+        "flag": "https://flagcdn.com/w320/na.png",
+        "language": "English"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "capital": "Washington DC",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/um.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Costa Rica",
+        "capital": "San Jose",
+        "region": "Americas",
+        "currency": "CRC",
+        "flag": "https://flagcdn.com/w320/cr.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "region": "Europe",
+        "currency": "BAM",
+        "flag": "https://flagcdn.com/w320/ba.png",
+        "language": "Bosnian, Croatian, Serbian"
+    },
+    {
+        "name": "Macao Special Administrative Region of the People's Republic of China",
+        "capital": "Sarajevo",
+        "region": "Asia",
+        "currency": "MOP",
+        "flag": "https://flagcdn.com/w320/mo.png",
+        "language": "Chinese, Portuguese"
+    },
+    {
+        "name": "Republic of Mozambique",
+        "capital": "Maputo",
+        "region": "Africa",
+        "currency": "MZN",
+        "flag": "https://flagcdn.com/w320/mz.png",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Reunion Island",
+        "capital": "Saint-Denis",
+        "region": "Africa",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/re.png",
+        "language": "French"
+    },
+    {
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/me.png",
+        "language": "Montenegrin"
+    },
+    {
+        "name": "Democratic People's Republic of Korea",
+        "capital": "Pyongyang",
+        "region": "Asia",
+        "currency": "KPW",
+        "flag": "https://flagcdn.com/w320/kp.png",
+        "language": "Korean"
+    },
+    {
+        "name": "Commonwealth of the Northern Mariana Islands",
+        "capital": "Saipan",
+        "region": "Oceania",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/mp.png",
+        "language": "English, Chamorro"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kyiv",
+        "region": "Europe",
+        "currency": "UAH",
+        "flag": "https://flagcdn.com/w320/ua.png",
+        "language": "Ukraine - Ukrainian"
+    },
+    {
+        "name": "Republic of Iraq",
+        "capital": "Baghdad",
+        "region": "Asia",
+        "currency": "IQD",
+        "flag": "https://flagcdn.com/w320/iq.png",
+        "language": "Arabic, Kurdish"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "capital": "King Edward Point",
+        "region": "Antarctic",
+        "currency": "GBP",
+        "flag": "https://flagcdn.com/w320/gs.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Angola",
+        "capital": "Luanda",
+        "region": "Africa",
+        "currency": "AOA",
+        "flag": "https://flagcdn.com/w320/ao.png",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Republic of Sierra Leone",
+        "capital": "Freetown",
+        "region": "Africa",
+        "currency": "SLL",
+        "flag": "https://flagcdn.com/w320/sl.png",
+        "language": "English"
+    },
+    {
+        "name": "Federated States of Micronesia",
+        "capital": "Palikir",
+        "region": "Oceania",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/fm.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Cuba",
+        "capital": "Havana",
+        "region": "Americas",
+        "currency": "CUP",
+        "flag": "https://flagcdn.com/w320/cu.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/tc.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Serbia",
+        "capital": "Belgrade",
+        "region": "Europe",
+        "currency": "RSD",
+        "flag": "https://flagcdn.com/w320/rs.png",
+        "language": "Serbian"
+    },
+    {
+        "name": "Republic of Ecuador",
+        "capital": "Quito",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/ec.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Faroe Islands",
+        "capital": "Torshavn",
+        "region": "Europe",
+        "currency": "DKK",
+        "flag": "https://flagcdn.com/w320/fo.png",
+        "language": "Faroese, Danish"
+    },
+    {
+        "name": "Antarctica",
+        "capital": "Torshavn",
+        "region": "Antarctic",
+        "currency": null,
+        "flag": "https://flagcdn.com/w320/aq.png",
+        "language": "No official language"
+    },
+    {
+        "name": "State of Palestine",
+        "capital": "Ramallah,Jerusalem",
+        "region": "Asia",
+        "currency": "JOD",
+        "flag": "https://flagcdn.com/w320/ps.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Republic of Turkey",
+        "capital": "Ankara",
+        "region": "Asia",
+        "currency": "TRY",
+        "flag": "https://flagcdn.com/w320/tr.png",
+        "language": "Turkish"
+    },
+    {
+        "name": "Independent and Sovereign Republic of Kiribati",
+        "capital": "South Tarawa",
+        "region": "Oceania",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/ki.png",
+        "language": "English, Gilbertese"
+    },
+    {
+        "name": "Republic of Kazakhstan",
+        "capital": "Nur-Sultan",
+        "region": "Asia",
+        "currency": "KZT",
+        "flag": "https://flagcdn.com/w320/kz.png",
+        "language": "Kazakh, Russian"
+    },
+    {
+        "name": "Gibraltar",
+        "capital": "Gibraltar",
+        "region": "Europe",
+        "currency": "GIP",
+        "flag": "https://flagcdn.com/w320/gi.png",
+        "language": "English"
+    },
+    {
+        "name": "Iceland",
+        "capital": "Reykjavik",
+        "region": "Europe",
+        "currency": "ISK",
+        "flag": "https://flagcdn.com/w320/is.png",
+        "language": "Icelandic"
+    },
+    {
+        "name": "Republic of Palau",
+        "capital": "Ngerulmud",
+        "region": "Oceania",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/pw.png",
+        "language": "Palauan, English"
+    },
+    {
+        "name": "State of Qatar",
+        "capital": "Doha",
+        "region": "Asia",
+        "currency": "QAR",
+        "flag": "https://flagcdn.com/w320/qa.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Swiss Confederation",
+        "capital": "Bern",
+        "region": "Europe",
+        "currency": "CHF",
+        "flag": "https://flagcdn.com/w320/ch.png",
+        "language": "German, French, Italian, Romansh"
+    },
+    {
+        "name": "French Polynesia",
+        "capital": "Papeete",
+        "region": "Oceania",
+        "currency": "XPF",
+        "flag": "https://flagcdn.com/w320/pf.png",
+        "language": "French, Tahitian"
+    },
+    {
+        "name": "Pitcairn Group of Islands",
+        "capital": "Adamstown",
+        "region": "Oceania",
+        "currency": "NZD",
+        "flag": "https://flagcdn.com/w320/pn.png",
+        "language": "English"
+    },
+    {
+        "name": "Hashemite Kingdom of Jordan",
+        "capital": "Amman",
+        "region": "Asia",
+        "currency": "JOD",
+        "flag": "https://flagcdn.com/w320/jo.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Republic of the Union of Myanmar",
+        "capital": "Naypyidaw",
+        "region": "Asia",
+        "currency": "MMK",
+        "flag": "https://flagcdn.com/w320/mm.png",
+        "language": "Burmese"
+    },
+    {
+        "name": "Kingdom of Thailand",
+        "capital": "Bangkok",
+        "region": "Asia",
+        "currency": "THB",
+        "flag": "https://flagcdn.com/w320/th.png",
+        "language": "Thai"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk",
+        "region": "Americas",
+        "currency": "USD",
+        "flag": "https://flagcdn.com/w320/bq.png",
+        "language": "Dutch"
+    },
+    {
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "region": "Americas",
+        "currency": "AWG",
+        "flag": "https://flagcdn.com/w320/aw.png",
+        "language": "Dutch, Papiamento"
+    },
+    {
+        "name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "region": "Americas",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/gp.png",
+        "language": "French"
+    },
+    {
+        "name": "Federal Republic of Nigeria",
+        "capital": "Abuja",
+        "region": "Africa",
+        "currency": "NGN",
+        "flag": "https://flagcdn.com/w320/ng.png",
+        "language": "English"
+    },
+    {
+        "name": "Kingdom of Bahrain",
+        "capital": "Manama",
+        "region": "Asia",
+        "currency": "BHD",
+        "flag": "https://flagcdn.com/w320/bh.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "capital": "Vientiane",
+        "region": "Asia",
+        "currency": "LAK",
+        "flag": "https://flagcdn.com/w320/la.png",
+        "language": "Lao"
+    },
+    {
+        "name": "Territory of the Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "region": "Oceania",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/cc.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Djibouti",
+        "capital": "Djibouti",
+        "region": "Africa",
+        "currency": "DJF",
+        "flag": "https://flagcdn.com/w320/dj.png",
+        "language": "French, Arabic"
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "region": "Oceania",
+        "currency": "SBD",
+        "flag": "https://flagcdn.com/w320/sb.png",
+        "language": "English"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "capital": "Honiara",
+        "region": "Antarctic",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/hm.png",
+        "language": "No official language"
+    },
+    {
+        "name": "Republic of India",
+        "capital": "New Delhi",
+        "region": "Asia",
+        "currency": "INR",
+        "flag": "https://flagcdn.com/w320/in.png",
+        "language": "Hindi, English"
+    },
+    {
+        "name": "Republic of San Marino",
+        "capital": "City of San Marino",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/sm.png",
+        "language": "Italian"
+    },
+    {
+        "name": "Grand Duchy of Luxembourg",
+        "capital": "Luxembourg",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/lu.png",
+        "language": "Luxembourgish, French, German"
+    },
+    {
+        "name": "Sint Maarten",
+        "capital": "Philipsburg",
+        "region": "Americas",
+        "currency": "ANG",
+        "flag": "https://flagcdn.com/w320/sx.png",
+        "language": "Dutch, English"
+    },
+    {
+        "name": "Falkland Islands",
+        "capital": "Stanley",
+        "region": "Americas",
+        "currency": "FKP",
+        "flag": "https://flagcdn.com/w320/fk.png",
+        "language": "English"
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "region": "Africa",
+        "currency": "XAF",
+        "flag": "https://flagcdn.com/w320/cf.png",
+        "language": "French, Sango"
+    },
+    {
+        "name": "Republic of Botswana",
+        "capital": "Gaborone",
+        "region": "Africa",
+        "currency": "BWP",
+        "flag": "https://flagcdn.com/w320/bw.png",
+        "language": "English, Tswana"
+    },
+    {
+        "name": "Country of Curaçao",
+        "capital": "Willemstad",
+        "region": "Americas",
+        "currency": "ANG",
+        "flag": "https://flagcdn.com/w320/cw.png",
+        "language": "Dutch, Papiamento"
+    },
+    {
+        "name": "Bailiwick of Guernsey",
+        "capital": "St. Peter Port",
+        "region": "Europe",
+        "currency": "GGP",
+        "flag": "https://flagcdn.com/w320/gg.png",
+        "language": "English, French, Guernésiais"
+    },
+    {
+        "name": "Kingdom of Norway",
+        "capital": "Oslo",
+        "region": "Europe",
+        "currency": "NOK",
+        "flag": "https://flagcdn.com/w320/no.png",
+        "language": "Norwegian"
+    },
+    {
+        "name": "Gabonese Republic",
+        "capital": "Libreville",
+        "region": "Africa",
+        "currency": "XAF",
+        "flag": "https://flagcdn.com/w320/ga.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Zimbabwe",
+        "capital": "Harare",
+        "region": "Africa",
+        "currency": "ZWL",
+        "flag": "https://flagcdn.com/w320/zw.png",
+        "language": "English, Shona, Sindebele"
+    },
+    {
+        "name": "Kingdom of Lesotho",
+        "capital": "Maseru",
+        "region": "Africa",
+        "currency": "LSL-ZAR",
+        "flag": "https://flagcdn.com/w320/ls.png",
+        "language": "Sesotho, English"
+    },
+    {
+        "name": "Republic of Slovenia",
+        "capital": "Ljubljana",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/si.png",
+        "language": "Slovene"
+    },
+    {
+        "name": "Argentine Republic",
+        "capital": "Buenos Aires",
+        "region": "Americas",
+        "currency": "ARS",
+        "flag": "https://flagcdn.com/w320/ar.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "region": "Africa",
+        "currency": "XOF",
+        "flag": "https://flagcdn.com/w320/bf.png",
+        "language": "French"
+    },
+    {
+        "name": "Republic of Yemen",
+        "capital": "Sana'a",
+        "region": "Asia",
+        "currency": "YER",
+        "flag": "https://flagcdn.com/w320/ye.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "region": "Africa",
+        "currency": "XDF",
+        "flag": "https://flagcdn.com/w320/cd.png",
+        "language": "French"
+    },
+    {
+        "name": "Sultanate of Oman",
+        "capital": "Muscat",
+        "region": "Asia",
+        "currency": "OMR",
+        "flag": "https://flagcdn.com/w320/om.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Republic of Indonesia",
+        "capital": "Jakarta",
+        "region": "Asia",
+        "currency": "IDR",
+        "flag": "https://flagcdn.com/w320/id.png",
+        "language": "Indonesian"
+    },
+    {
+        "name": "Republic of Nauru",
+        "capital": "Yaren",
+        "region": "Oceania",
+        "currency": "AUD",
+        "flag": "https://flagcdn.com/w320/nr.png",
+        "language": "Nauruan, English"
+    },
+    {
+        "name": "Republic of Rwanda",
+        "capital": "Kigali",
+        "region": "Africa",
+        "currency": "RWF",
+        "flag": "https://flagcdn.com/w320/rw.png",
+        "language": "Kinyarwanda, French, English"
+    },
+    {
+        "name": "Republic of North Macedonia",
+        "capital": "Skopje",
+        "region": "Europe",
+        "currency": "MKD",
+        "flag": "https://flagcdn.com/w320/mk.png",
+        "language": "Macedonian"
+    },
+    {
+        "name": "Republic of Kosovo",
+        "capital": "Pristina",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/xk.png",
+        "language": "Albanian, Serbian"
+    },
+    {
+        "name": "Kingdom of the Netherlands",
+        "capital": "Amsterdam",
+        "region": "Europe",
+        "currency": "EUR",
+        "flag": "https://flagcdn.com/w320/nl.png",
+        "language": "Dutch"
+    },
+    {
+        "name": "Tunisian Republic",
+        "capital": "Tunis",
+        "region": "Africa",
+        "currency": "TND",
+        "flag": "https://flagcdn.com/w320/tn.png",
+        "language": "Arabic"
+    },
+    {
+        "name": "Republic of South Sudan",
+        "capital": "Juba",
+        "region": "Africa",
+        "currency": "SSP",
+        "flag": "https://flagcdn.com/w320/ss.png",
+        "language": "English"
+    },
+    {
+        "name": "Republic of Honduras",
+        "capital": "Tegucigalpa",
+        "region": "Americas",
+        "currency": "HNL",
+        "flag": "https://flagcdn.com/w320/hn.png",
+        "language": "Spanish"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "region": "Americas",
+        "currency": "XCD",
+        "flag": "https://flagcdn.com/w320/vc.png",
+        "language": "English"
+    },
+    {
+        "name": "Democratic Socialist Republic of Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte",
+        "region": "Asia",
+        "currency": "LKR",
+        "flag": "https://flagcdn.com/w320/lk.png",
+        "language": "Sinhala, Tamil"
+    },
+    {
+        "name": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "capital": "City of Victoria",
+        "region": "Asia",
+        "currency": "HKD",
+        "flag": "https://flagcdn.com/w320/hk.png",
+        "language": "Chinese, English"
+    }
+
+]
